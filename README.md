@@ -5,3 +5,5 @@ Like a diamond in the sky
 oh i i i i i
 
 this is the first feature
+
+here i fixed a bug 
